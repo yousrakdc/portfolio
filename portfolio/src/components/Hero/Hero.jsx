@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Yousra</h1>
         <p className={styles.description}>
-        Hi, I'm Yousra, a passionate junior Fullstack Developer with a knack for crafting elegant and efficient web solutions. Welcome to my portfolio!
+        A passionate junior Fullstack Developer with a knack for crafting elegant and efficient web solutions. Welcome to my portfolio!
         </p>
         <a href="mailto:yousrakerdouchi@email.com" className={styles.contactBtn}>
           Contact Me
