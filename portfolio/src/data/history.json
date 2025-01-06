@@ -1,28 +1,26 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "French Teacher",
+      "organisation": "Self employed",
+      "startDate": "Feb, 2020",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Worked lesson plans", "Helped students reach their goals and gain confidence"]
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "English Teacher",
+      "organisation": "Alfa Jangada",
+      "startDate": "May, 2021",
+      "endDate": "Dec, 2023",
+      "experiences": ["Worked on lesson plans", "Managed a classroom"]
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "AI and Marketing Internship",
+      "organisation": "iMedia360",
+      "startDate": "Apr, 2019",
+      "endDate": "Jun, 2019",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Worked on AI reaserch",
+        "Helped create Marketiing strategies"
       ],
       "imageSrc": "history/netflix.png"
     }

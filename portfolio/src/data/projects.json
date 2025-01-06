@@ -1,26 +1,24 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "RATAZANA",
+      "imageSrc": "projects/ratazana.png",
+      "description": "A price-tracking website for soccer jerseys enthousiasts.",
+      "skills": ["React", "Django", "Node", "PostgreSQL", "GraphQL"],
+      "demo": "https://medium.com/@yousrakdc/portfolio-project-ratazana-21fa7cbf4ad2",
+      "source": "https://github.com/yousrakdc/ratazana"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
+      "title": "AirBnB dupe",
+      "imageSrc": "projects/project.jpg",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["HTML", "Flask", "Python", "CSS", "JWT"],
+      "source": "https://github.com/yousrakdc/holberton_Hbnb_v3"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Portfolio",
+      "imageSrc": "projects/project.jpg",
+      "description": "What you're seeing right now :)",
+      "skills": ["React", "CSS", "Vite", "Node"],
+      "source": "https://github.com/yousrakdc/portfolio"
     }
   ]
