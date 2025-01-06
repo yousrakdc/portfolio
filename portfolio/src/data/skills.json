@@ -24,10 +24,6 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
-    },
-    {
         "title": "Django",
         "imageSrc": "skills/django.png"
     },

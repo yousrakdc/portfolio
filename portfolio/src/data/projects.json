@@ -2,7 +2,7 @@
     {
       "title": "RATAZANA",
       "imageSrc": "projects/ratazana.png",
-      "description": "A price-tracking website for soccer jerseys enthousiasts.",
+      "description": "A price-tracking website for soccer jersey enthusiasts.",
       "skills": ["React", "Django", "Node", "PostgreSQL", "GraphQL"],
       "demo": "https://medium.com/@yousrakdc/portfolio-project-ratazana-21fa7cbf4ad2",
       "source": "https://github.com/yousrakdc/ratazana"
@@ -10,7 +10,7 @@
     {
       "title": "AirBnB dupe",
       "imageSrc": "projects/project.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Had fun making a dupe of the AirBnb website, as part of a school project.",
       "skills": ["HTML", "Flask", "Python", "CSS", "JWT"],
       "source": "https://github.com/yousrakdc/holberton_Hbnb_v3"
     },
